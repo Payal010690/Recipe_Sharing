@@ -25,7 +25,7 @@ export default function App() {
       {/* Header / Navbar */}
       <header className="header">
         <div className="container nav-bar">
-          <div className="brand">🍴 RecipeShare</div>
+          <div className="brand">🍴 Savorly</div>
           <nav className="nav-links">
             <Link to="/">Feed</Link>
             <Link to="/create">Create</Link>
